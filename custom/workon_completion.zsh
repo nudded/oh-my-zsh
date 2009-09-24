@@ -1,0 +1,1 @@
+compctl -g '/usr/local/projects/*(:t)' _workon workon
